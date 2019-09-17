@@ -1,4 +1,4 @@
- ![Image]()
+![Image](Githubimage.jpg)
 
 ## Welcome to Brendon's Github Learning Journal
 
