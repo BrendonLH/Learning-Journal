@@ -1,3 +1,5 @@
+ ![Image]()
+
 ## Welcome to Brendon's Github Learning Journal
 
 - This will have a brief intro of myself.
