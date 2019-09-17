@@ -1,4 +1,11 @@
-## Welcome to my Github Learning Journal
+## Welcome to Brendon's Github Learning Journal
+
+- This will have a brief intro of myself.
+- WHat the Point of this Journal is!
+- What Growth Mindset is. 
+
+### Introduction
+
 
 You can use the [editor on GitHub](https://github.com/LegacyUntouched/Learning-Journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
