@@ -30,6 +30,7 @@ Born on July 28th, 1988 at Evergreen Hospital
 1. To Document all the <strong>AWESOME!</strong> things I am going to learn in the coming weeks leading up to course 201 and Beyond!
 2. To Look back at a later time and laugh at my <em>frustrations</em> with coding
 3. To submit the assignment to the class 
+- also to add a **Bold** and _italic_ markdowns to complete the 5 Markdowns needed.
 
 
 
