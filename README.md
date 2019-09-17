@@ -7,8 +7,11 @@
 ## Introduction
 ### Name
 Brendon Lee Hampton
-### Date & place of Birth
-Born on July 28th, 1988 at Evergreen Hospital
+### Jobs in the Past
+- USMC Infanty
+- Personal Trainer
+- Shipping Recieving Manager at Persona Nutrition.
+
 ### Things I like
 - Shooting 
 - Lifting Stuff
