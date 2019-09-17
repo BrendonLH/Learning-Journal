@@ -4,7 +4,12 @@
 - WHat the Point of this Journal is!
 - What Growth Mindset is. 
 
-### Introduction
+## Introduction
+### Name
+### D.O.B
+### Hobbies
+
+
 
 
 You can use the [editor on GitHub](https://github.com/LegacyUntouched/Learning-Journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
