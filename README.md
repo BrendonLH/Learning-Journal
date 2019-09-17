@@ -6,8 +6,25 @@
 
 ## Introduction
 ### Name
-### D.O.B
-### Hobbies
+Brendon Lee Hampton
+### Date & place of Birth
+Born on July 28th, 1988 at Evergreen Hospital
+### Things I like
+- Shooting 
+- Lifting Stuff
+- Punching and Kicking stuff
+- Teasing my Corgi
+- Hiking
+- Swimming
+- Brazilian Jui Jitsu
+- Coding HTML, CSS, JS
+
+### Things I dont like
+- Vegetables
+- Bootstrap
+- Wix
+- Mushrooms
+
 
 
 
