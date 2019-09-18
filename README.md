@@ -43,7 +43,7 @@ Growth Mindset to me is not only the ability to adapt and change to your environ
 
 
 ## Links and Contacts
-[My GitHub Profile](https://github.com/BrendonLH) is my Github Profile
+[**CLICK HERE**](https://github.com/BrendonLH) for my Github Profile
 
 ## September 17th 2019
 
