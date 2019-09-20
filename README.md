@@ -62,5 +62,6 @@ oh boy, where to start. The **Command Line**!! at first I was very hesistant bec
 + When I am referring to a file or folder, I need to be case sensative and also use 'blah blah' (The single ticks) in order to Negate the space.
 + Tab is my best friend as it will autocomplete and also using it with LS will display a bunch of folders that I can navigate through.
 
-
+## Test #2
+Took the Second Test for the Terminal questions and took me again....two attempts. The first I got a 4.33 which meant I was missing 2 selections of one of the questions. went back and realized I just forgot to select the other ways to find a folder. I like that there are 4 ways to find a file, I think ill do the one that I seem to grasp to the easiest. Second attempt I made up the lost points. 
 
