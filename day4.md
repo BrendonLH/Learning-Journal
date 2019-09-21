@@ -6,8 +6,8 @@ Site ideas
 + The Majestic Corgi
 + UFO's in Wa state
 
-                              Chapter 18 HTML
-----
+                            Chapter 18 HTML
+
 
 
 
@@ -22,7 +22,7 @@ Site ideas
 9. Grouping and Similarity. Proximity, Closure, Continuance, White Space, Color and Borders can all make information look similar. 
 10. Site Navigation. Helps users find where they want to go and what the site is about. The navigation bar should be Concise, Clear and Selective. Navigation should be quick, easy to read, predictable and reflect sections of the site. 
 
-----
+
                             Chapter 10 CSS
 
 1. CSS works by styling the HTML page. You can style specific pieces of the information that you have added to HTML or do entire sections. HTML is the Canvas and CSS is the paint. Declarations tell HTML how to render the information. They are Made up of 2 pieces of information. Property and Value. 
