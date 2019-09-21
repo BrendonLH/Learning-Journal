@@ -1,5 +1,7 @@
-## About Me
-[Home](README.md)
+## [Home](README.md)~About me ##
+
+
+
 
 ### Name
 Brendon Lee Hampton
