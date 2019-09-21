@@ -1,4 +1,6 @@
-## Introduction
+## About Me
+[Home](README.md)
+
 ### Name
 Brendon Lee Hampton
 ### Jobs in the Past
