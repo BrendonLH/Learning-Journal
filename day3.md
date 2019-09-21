@@ -1,7 +1,8 @@
+## [Home](README.md) ##
 # Day 3
 ## September 20th 2019
 
-[Home](README.md)
+
 
 Today we learned how to grab our profile, add a **repository** to git and then **commit** and **push** to the origin on github. This page was created doing just that!. Below will be a list of the way to the add the updated files to Github. 
 
