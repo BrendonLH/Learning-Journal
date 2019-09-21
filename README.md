@@ -45,7 +45,7 @@ Growth Mindset to me is not only the ability to adapt and change to your environ
 ## Links and Contacts
 [*CLICK HERE*](https://github.com/BrendonLH) for my Github Profile
 
-### Table of Contents
+## Table of Contents
 + [Day 1](day1.md)
 + [Day 2](day2.md)
 + [Day 3](day3.md) 
