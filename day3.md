@@ -1,6 +1,8 @@
 # Day 3
 ## September 20th 2019
 
+[Home](README.md)
+
 Today we learned how to grab our profile, add a **repository** to git and then **commit** and **push** to the origin on github. This page was created doing just that!. Below will be a list of the way to the add the updated files to Github. 
 
 1. To add all the changes, in the termninal type **git add .** , and that will add all the files, or you can do single files by doing **git status** and then selecting the file to add.

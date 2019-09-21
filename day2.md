@@ -1,5 +1,7 @@
 ## September 19th 2019 11:53am
 
+[Home](README.md)
+
 Oh boy, where to start. The **Command Line**!! at first I was very hesistant because I have tried tackling it before with only frustration. Looking for files was always a pain as I thought I had to know the file name. After the Tutorial, However, I dont need to know anything. Just need to know how to pull up a list with **_LS_**. after doing that just a coupleof slashes and then im where I need to be. Now I just gotta learn what all the Config files do. The other thing that really stuck out to me what the great addition of **TAB**. Wow tab is helpful. Cant figure out how to spell something but know how to start it, Whammy Tab is here. Tab just autocompletes stuff. If you **LS double tab** it will show a very user friendly display of folders and then you can just select the one you want. 
 
 ### My Cheat Sheet
