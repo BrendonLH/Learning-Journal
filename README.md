@@ -25,6 +25,7 @@
 + [Day 3](day3.md) 
 + [Day 4](day4.md) + [CSS](day4css.md) + [JavaScript](day4js.md)
 + [Day 5](day5.md)
++ [Day 6](day6.md)
 
 
 
